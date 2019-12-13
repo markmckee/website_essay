@@ -76,11 +76,16 @@ h1{
 h2{
     
     color: black;
-    font font-family: sans-serif;
+    font-family: sans-serif;
     text-align: center;
-
-    
 }
+
+h3{
+        font-family: sans-serif;
+        color: white;
+    }
+    
+
 
 
 img{
