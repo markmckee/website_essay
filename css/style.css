@@ -1,0 +1,123 @@
+
+/*-------Main Styling-------*/
+
+
+
+
+body{
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
+    background: #fafafa;
+    color: #333;
+    font-family: 'Helvetica', serif;
+    
+}
+
+
+nav{
+   position: fixed;
+    top: 0;
+    left: 0;
+    margin:0;
+    width:100%;
+    background-color:#5996B7;
+    padding: 1em 0;
+    font-size: :0.90em;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+nav ul{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+        
+}
+
+nav ul li{
+    display: inline;
+    margin:20px;
+        
+    
+}
+    
+    
+nav a:link{
+    color:#fafafa;
+    
+        
+    
+}
+
+nav a:hover{
+    color:black;
+    
+    
+}
+
+
+
+nav a:visited{
+    color:#fafafa;
+    
+}
+
+nav a:active{
+    color:#fafafa;
+}
+
+h1{
+    color: white;
+    font-family: sans-serif;
+    
+}
+
+h2{
+    
+    color: black;
+    font font-family: sans-serif;
+    text-align: center;
+
+    
+}
+
+
+img{
+ display: block;
+    
+    padding: 0;
+    max-width: 100%;
+    
+}
+
+
+div{
+    display: block;
+    background-color: black;
+}
+
+.introduction-container {   
+    margin-top: 80px;
+    display: flex;
+    width: 100%;
+
+}
+
+.title {
+        width: 400px;
+        height: 400px;
+    background: black;
+}
+
+.image {
+        width: 400px;
+        height: 400px;
+    background: black;
+}
+
+
+
