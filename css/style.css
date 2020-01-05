@@ -1,19 +1,11 @@
 
 /*-------Main Styling-------*/
 
-
-
-
 body{
-    width: 80%;
-    max-width: 700px;
-    margin: auto;
-    background: #fafafa;
-    color: #333;
-    font-family: 'Helvetica', serif;
+    font-family: Helvetica;
+    margin: 0;
     
 }
-
 
 nav{
    position: fixed;
@@ -45,14 +37,17 @@ nav ul li{
 }
     
     
-.navigation a:link{
+.nav a:link{
     color:#fafafa;
     
         
     
 }
-
 nav a:hover{
+    color:#333;
+}
+
+nav a:hover:visited{
     color:#333;
 }
 
@@ -123,3 +118,9 @@ div{
 
 
 
+.center{
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
