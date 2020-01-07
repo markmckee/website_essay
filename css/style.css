@@ -128,43 +128,50 @@ div{
 .intro{
     font-size: 1.25em;
     display: block;
-    margin: 20%
+    margin-left: 10%;
+    margin-right: 10%;  
     
 }
 .the-world-wide-web-content{
     display: block;
-    margin: 20%;
+    margin-left: 10%;
+    margin-right: 10%;  
     font-size: 1.25em;
     
 }
 
 .social-media-content{
     display: block;
-    margin: 20%;
+    margin-left: 10%;
+    margin-right: 10%;  
     font-size: 1.25em;
 }
 
 .mental-health-content{
     display: block;
-    margin: 20%;
+    margin-left: 10%;
+    margin-right: 10%;  
     font-size: 1.25em;
 }
 
 .internet-addiction-content{
     display: block;
-    margin: 20%;
+    margin-left: 10%;
+    margin-right: 10%;  
     font-size: 1.25em;
 }
 
 .conclusion-content{
     display: block;
-    margin: 20%;
+    margin-left: 10%;
+    margin-right: 10%;  
     font-size: 1.25em;
 }
 
 .bibliography-content{
     display: block;
-    margin: 20%
+    margin-left: 10%;
+    margin-right: 10%;  
 }
 
 
