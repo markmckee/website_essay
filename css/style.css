@@ -124,3 +124,47 @@ div{
     margin-right: auto;
     width: 50%;
 }
+
+.intro{
+    font-size: 1.25em;
+    display: block;
+    margin: 20%
+    
+}
+.the-world-wide-web-content{
+    display: block;
+    margin: 20%;
+    font-size: 1.25em;
+    
+}
+
+.social-media-content{
+    display: block;
+    margin: 20%;
+    font-size: 1.25em;
+}
+
+.mental-health-content{
+    display: block;
+    margin: 20%;
+    font-size: 1.25em;
+}
+
+.internet-addiction-content{
+    display: block;
+    margin: 20%;
+    font-size: 1.25em;
+}
+
+.conclusion-content{
+    display: block;
+    margin: 20%;
+    font-size: 1.25em;
+}
+
+.bibliography-content{
+    display: block;
+    margin: 20%
+}
+
+
